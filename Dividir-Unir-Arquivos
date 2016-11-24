@@ -1,1 +1,3 @@
-split --bytes=70M nome do arquivo
+split --bytes=10M /caminhodoarquivo grande/ /caminhoparaoarquivomenor
+
+split --bytes=70M nome_do_arquivo
