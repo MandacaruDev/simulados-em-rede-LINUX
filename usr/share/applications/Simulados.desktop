@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Moodle
+Icon=/usr/share/applications/img/images.png
+Exec=firefox http://localhost/simulados/login/index.php
+Terminal=false
+Type=Application
+Categories=Application;Education
+StartupNotify=true
+Name[pt_BR]=Simulados
