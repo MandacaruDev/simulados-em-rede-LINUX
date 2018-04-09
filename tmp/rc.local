@@ -13,4 +13,6 @@
 
 /opt/lampp/lampp start
 
+bash /opt/lampp/htdocs/simrede/0-inicia-PHP-xampp
+
 exit 0
